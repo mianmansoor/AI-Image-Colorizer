@@ -153,4 +153,6 @@ Built with: PyTorch, Streamlit,NumPy, OpenCV, PIL
 For educational and academic use only.  
 No commercial distribution allowed without written permission.
 
+Link:https://drive.google.com/file/d/1TsDLFDHlQo8oL5lt9o4Nq5Vbvuk7ajPD/view?usp=sharing
+
 Happy Colorizing! 🎨
